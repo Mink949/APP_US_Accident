@@ -26,7 +26,7 @@ st.markdown("""
 <style>
 /* ---------- Global ---------- */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
-html, body, [class*="st-"] { font-family: 'Inter', sans-serif; color: #1e293b; }
+html, body, .stApp { font-family: 'Inter', sans-serif; color: #1e293b; }
 .stApp { background-color: #f5f7fa; }
 .stMarkdown, .stMarkdown p, .stMarkdown span, .stMarkdown li,
 .stAlert p, .stExpander p, h1, h2, h3, h4, h5, h6,
